@@ -1,6 +1,6 @@
 # Slash
 
-A Powershell module that converts Windows-style paths to Unix-style paths
+A Powershell module that converts Windows-style paths to Unix-style paths!
 
 &nbsp;
 
